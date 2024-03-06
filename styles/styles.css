@@ -63,10 +63,6 @@ ul li a{
     transition: 0.4 ease-in-out;
 }
 
-/* ul li a:hover{
-    color: blue;
-} */
-
 .search{
     width: 330px;
     float: left;
@@ -242,4 +238,10 @@ margin-top: 10%;
 
 .image{
     font-size: 30px;
+}
+
+ul li ul.dropdown {
+    position: absolute;
+    display: none;
+    width: auto;
 }
