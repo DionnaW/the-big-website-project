@@ -1,0 +1,29 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: solid;
+    color: aqua;
+    font-size: 100px;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label{
+    font-display: bold;
+    font-size: 20px;
+    margin-left: 40%;
+}
+
+button{
+    background-color: lightgray;
+    margin-left: 50%;
+}
+
+table {
+    margin-left: 30%;
+    margin-top: 100px;
+}
